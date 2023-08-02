@@ -21,8 +21,8 @@ Feel free to contribute to this project by submitting issues or pull requests.
 
 ## Credits
 
-- Website created by [Your Name](https://github.com/utkarshpayal).
+- Website created by [Utkarsh](https://github.com/utkarshpayal).
 
 ---
 
-[GitHub Repository](https://github.com/utkarshpayal/CodeSherlock)
+[CodeSherlock](https://github.com/utkarshpayal/CodeSherlock)
